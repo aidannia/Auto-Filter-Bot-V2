@@ -85,7 +85,7 @@ async def addchannel(client: Bot, message: Message):
         print(e)
         await message.reply_text(
             f"<i>User {user.first_name} couldn't join your channel! Make sure user is not banned in channel."
-            "\n\nOr manually add the user to your channel and try again</i>",
+            "\n\nor manually add the user to your channel and try again</i>",
         )
         return
 
