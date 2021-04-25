@@ -64,5 +64,5 @@ Bot will automatically search for your files and give links to that!
  
 🦋<b>Support Chat : <a href='https://t.me/EywasSC'>Click Here</a></b>
 
-🦋<b>My Channel : <a href='https://t.me/EvasUpdates'>Click Here</a></b>
+🦋<b>My Channel : <a href='https://t.me/EywasUpdates'>Click Here</a></b>
 """
