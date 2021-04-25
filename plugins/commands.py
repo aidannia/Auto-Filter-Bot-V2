@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "🦋 CHAT GROUP 🦋", url="https://t.me/gangstersgroupp")
+                            "🦋 SUPPORT CHAT 🦋", url="https://t.me/EywasSC")
                     ]
                 ]
             ),
