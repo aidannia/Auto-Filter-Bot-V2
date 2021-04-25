@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {},
 
-I’m Σуωα, an Auto Filter Bot created & maintained by @AidanNia.
+I’m Σуωα, an Auto Filter Bot, created & maintained by @AidanNia.
 
 I can give button link to files in connected channels on query!
 
@@ -56,13 +56,13 @@ Bot will automatically search for your files and give links to that!
 
     ABOUT_MSG = """🦋<b>My Name : Σуωα</b>
     
-🦋<b>Creater :</b> @AidanNia
+🦋<b>Creater : @AidanNia</b>
 
-🦋<b>Language :</b> <code>Python3</code>
+🦋<b>Language : <code>Python3</code></b>
 
-🦋<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+🦋<b>Library : <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a></b>
  
-🦋<b>Chat Group :</b> <a href='https://t.me/gangstersgroupp'>Group Link</a> 
+🦋<b>Chat Group :</b> <a href='https://t.me/gangstersgroupp'>Group Link</a></b>
 
-🦋<b>My Channel :</b> <a href='https://t.me/EvasUpdates'>Channel Link</a>
+🦋<b>My Channel :</b> <a href='https://t.me/EvasUpdates'>Channel Link</a></b>
 """
