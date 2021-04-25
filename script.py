@@ -7,7 +7,7 @@ I’m Σуωα, an Auto Filter Bot, created & maintained by @AidanNia.
 
 I can give button link to files in connected channels on query!
 
-Btw, I can only be connected to a channel by my authorised users...🙃
+So, no need to add filters for your files/movies/etc. from now on!
 
 For more, click <i>help</i></b>"""
 
