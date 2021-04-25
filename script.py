@@ -1,17 +1,13 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b>Hi {},
 
-You can call this as an Auto Filter Bot if you like :D
+I’m Σуωα, an Auto Filter Bot made by @AidanNia.
 
-This is Version 2 of Auto Filter Bot
+I can give button link to files in connected channels on query!
 
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
-
-For more click <i>help</i></b>"""
+For more, click <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
@@ -53,17 +49,18 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @AidanNia</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """🦋<b>My Name : Σуωα</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+🦋<b>Creater :</b> @AidanNia
 
-⭕️<b>Language :</b> <code>Python3</code>
+🦋<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+🦋<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+ 
+🦋<b>Chat Group :</b> <a href='https://t.me/gangstersgroupp'>Group Link</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
-
+🦋<b>My Channel :</b> <a href='https://t.me/EvasUpdates'>Channel Link</a>
 """
