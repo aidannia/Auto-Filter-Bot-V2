@@ -9,7 +9,7 @@ I can give button link to files in connected channels on query!
 
 So, no need to add filters for your files/movies/etc. from now on!
 
-For more, click <i>help</i></b>"""
+For more, click HELP!</b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
