@@ -3,9 +3,11 @@ class script(object):
 
     START_MSG = """ <b>Hi {},
 
-I’m Σуωα, an Auto Filter Bot made by @AidanNia.
+I’m Σуωα, an Auto Filter Bot created & maintained by @AidanNia.
 
 I can give button link to files in connected channels on query!
+
+Btw, I can only be connected to a channel by my authorised users...🙃
 
 For more, click <i>help</i></b>"""
 
