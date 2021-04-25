@@ -56,13 +56,13 @@ Bot will automatically search for your files and give links to that!
 
     ABOUT_MSG = """🦋<b>My Name : Σуωα</b>
     
-🦋<b>Creater : @AidanNia</b>
+🦋<b>Creater : <a href='https:t.me/AidanNia/'>𖤍 Λℓσηє 𖤍</a></b>
 
-🦋<b>Language : <code>Python3</code></b>
+🦋<b>Language : <code>Python 3</code></b>
 
 🦋<b>Library : <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a></b>
  
-🦋<b>Chat Group :</b> <a href='https://t.me/gangstersgroupp'>Group Link</a></b>
+🦋<b>Support Chat : <a href='https://t.me/EywasSC'>Click Here</a></b>
 
-🦋<b>My Channel :</b> <a href='https://t.me/EvasUpdates'>Channel Link</a></b>
+🦋<b>My Channel : <a href='https://t.me/EvasUpdates'>Click Here</a></b>
 """
