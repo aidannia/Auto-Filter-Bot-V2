@@ -56,7 +56,7 @@ Bot will automatically search for your files and give links to that!
 
     ABOUT_MSG = """🦋<b>My Name : Σуωα</b>
     
-🦋<b>Creater : <a href='https:t.me/AidanNia/'>𖤍 Λℓσηє 𖤍</a></b>
+🦋<b>Creater : @AidanNia</b>
 
 🦋<b>Language : <code>Python 3</code></b>
 
