@@ -3,7 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {},
 
-I’m Σуωα, an Auto Filter Bot, created & maintaining by @AidanNia.
+I’m Σуωα, an Auto Filter Bot, created & maintained by @AidanNia.
 
 I can give button link to files in connected channels on query!
 
