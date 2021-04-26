@@ -9,7 +9,7 @@ I can give button link to files in connected channels on query!
 
 So, no need to add filters for your files/movies/etc. from now on!
 
-But, as for now, you can’t add me to any chat, without my [creator](https://t.me/AidanNia)’s concern...🙃!
+But, as for now, you can’t add me to any chat, without my [creator](t.me/AidanNia)’s concern...🙃!
 
 For more, click HELP!</b>"""
 
